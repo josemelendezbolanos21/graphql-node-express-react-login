@@ -38,5 +38,8 @@
     "react-router": "^3.0.2",
     "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
